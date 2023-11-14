@@ -17,6 +17,7 @@ const Home = () => {
             <a href="/about">About us</a>
             <a href="/contact">Contact Us</a>
             <a href="/help">Help</a>
+            <a href="/ads">Ads</a>
             {/* <a><Link to ='/ads'>Ads</Link></a> */}
             {/* <li><Link to ='/ads'>Ads</Link></li>   */}
 
